@@ -7,7 +7,10 @@
     - ✅How I use LLMs - YouTube
 - Python for Data Analysis：书籍，pandas作者写的，还没有找视频课程，可能也不需要，讲numpy、pandas等重要的基础库，学习数据处理的方法
 - ✅Practical Deep Learning for Coders Part1：https://course.fast.ai/，掌握基础的模型训练方法，了解一部分模型背后的数学原理
-- [47%]Practical Deep Learning for Coders Part2：https://course.fast.ai/，理解现代深度学习架构
+- [70%]Practical Deep Learning for Coders Part2：https://course.fast.ai/，理解现代深度学习架构
+- [Stanford CS25: Introduction to Transformers with Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E&utm_source=chatgpt.com)
+- [Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
+- [Deep Dive into LLMs like ChatGPT (Andrej Karpathy)](https://www.youtube.com/watch?v=7xTGNNLPyMI&utm_source=chatgpt.com)
 - Huggingface LLm Course：https://huggingface.co/learn/llm-course，LLM结构、微调、部署
 - LangChain：LLM应用工程能力
     - [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python)
