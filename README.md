@@ -9,8 +9,9 @@
 - ✅Practical Deep Learning for Coders Part1：https://course.fast.ai/，掌握基础的模型训练方法，了解一部分模型背后的数学原理
 - [✅]Practical Deep Learning for Coders Part2：https://course.fast.ai/，理解现代深度学习架构
     - 第21课中断，后面主要是视觉模型相关的一些内容
-- [0%][Stanford CS25: Introduction to Transformers with Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E&utm_source=chatgpt.com)
-- [Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
+- [✅][Stanford CS25: Introduction to Transformers with Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E&utm_source=chatgpt.com)
+- [0%][Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
+- 研究github.com/karpathy/mingpt项目
 - [Deep Dive into LLMs like ChatGPT (Andrej Karpathy)](https://www.youtube.com/watch?v=7xTGNNLPyMI&utm_source=chatgpt.com)
 - Huggingface LLm Course：https://huggingface.co/learn/llm-course，LLM结构、微调、推理、部署
 - LangChain：LLM应用工程能力
