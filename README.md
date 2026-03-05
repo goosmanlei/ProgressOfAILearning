@@ -16,6 +16,8 @@
 - [Deep Dive into LLMs like ChatGPT (Andrej Karpathy)](https://www.youtube.com/watch?v=7xTGNNLPyMI&utm_source=chatgpt.com)
 - [Huggingface LLm Course](https://huggingface.co/learn/llm-course):LLM结构、微调、推理、部署
 - [Huggingface Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course)
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+- [Full Stack LLM Bootcamp - University of California, Berkeley](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 - [ChatGPT: Building systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 - LangChain：LLM应用工程能力
     - [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python)
