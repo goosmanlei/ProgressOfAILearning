@@ -10,6 +10,7 @@
 - [✅]Practical Deep Learning for Coders Part2：https://course.fast.ai/，理解现代深度学习架构
     - 第21课中断，后面主要是视觉模型相关的一些内容
 - [✅][Stanford CS25: Introduction to Transformers with Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E&utm_source=chatgpt.com)
+    - 这是一节开放课，音质不是很好，课程内容不是很完整；完全可以用下面的Let's build GPT代替
 - [0%][Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
 - 研究github.com/karpathy/mingpt项目
 - [Deep Dive into LLMs like ChatGPT (Andrej Karpathy)](https://www.youtube.com/watch?v=7xTGNNLPyMI&utm_source=chatgpt.com)
