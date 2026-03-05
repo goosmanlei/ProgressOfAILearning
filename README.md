@@ -11,10 +11,12 @@
     - 第21课中断，后面主要是视觉模型相关的一些内容
 - [✅][Stanford CS25: Introduction to Transformers with Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E&utm_source=chatgpt.com)
     - 这是一节开放课，音质不是很好，课程内容不是很完整；完全可以用下面的Let's build GPT代替
-- [0%][Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
-- 研究github.com/karpathy/mingpt项目
+- [✅][Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
+- [0%]研究github.com/karpathy/mingpt项目
 - [Deep Dive into LLMs like ChatGPT (Andrej Karpathy)](https://www.youtube.com/watch?v=7xTGNNLPyMI&utm_source=chatgpt.com)
-- Huggingface LLm Course：https://huggingface.co/learn/llm-course，LLM结构、微调、推理、部署
+- [Huggingface LLm Course](https://huggingface.co/learn/llm-course):LLM结构、微调、推理、部署
+- [Huggingface Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course)
+- [ChatGPT: Building systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 - LangChain：LLM应用工程能力
     - [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python)
     - [LangChain Essentials - Python](https://academy.langchain.com/courses/langchain-essentials-python)
