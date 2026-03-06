@@ -29,7 +29,6 @@
 
 - [✅][Stanford CS25: Introduction to Transformers with Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E&utm_source=chatgpt.com)
 - [✅][Let's build GPT: from scratch, in code, spelled out (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY&utm_source=chatgpt.com)
-- [0%]研究github.com/karpathy/mingpt项目
 
 ---
 
