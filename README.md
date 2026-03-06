@@ -36,9 +36,9 @@
 
 > 目标：理解 RLHF、指令微调等让 LLM "听话" 的核心技术，掌握模型微调与部署的基本流程。
 
-- InstructGPT论文
+- [0%][Huggingface LLm Course](https://huggingface.co/learn/llm-course)：LLM结构、微调、推理、部署
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
-- [Huggingface LLm Course](https://huggingface.co/learn/llm-course)：LLM结构、微调、推理、部署
+- InstructGPT论文
 
 ---
 
