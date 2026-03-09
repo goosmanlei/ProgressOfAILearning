@@ -23,7 +23,7 @@
 
 ---
 
-## 里程碑三：深入理解 Transformer 与 LLM 原理（进行中）
+## 里程碑三：深入理解 Transformer 与 LLM 原理✅
 
 > 目标：从头理解 Transformer 架构，能手写 GPT，读懂相关源码。
 
@@ -32,11 +32,11 @@
 
 ---
 
-## 里程碑四：对齐、微调与强化学习
+## 里程碑四：对齐、微调与强化学习（进行中）
 
 > 目标：理解 RLHF、指令微调等让 LLM "听话" 的核心技术，掌握模型微调与部署的基本流程。
 
-- [2/9][Huggingface LLm Course](https://huggingface.co/learn/llm-course)：LLM结构、微调、推理、部署
+- [3/9][Huggingface LLm Course](https://huggingface.co/learn/llm-course)：LLM结构、微调、推理、部署
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - InstructGPT论文
 
