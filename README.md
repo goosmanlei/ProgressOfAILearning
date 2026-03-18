@@ -57,6 +57,7 @@
 
 > 目标：掌握多步骤、多 Agent 系统的构建方法，理解 MCP 协议，能落地前沿 Agent 应用。
 
+- [solveit course by Jeremy Howard](https://solve.it.com/)
 - LangGraph：复杂Agent构建
     - [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph)
     - [LangGraph Overview](https://docs.langchain.com/oss/python/langgraph/overview)
