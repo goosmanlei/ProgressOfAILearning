@@ -40,6 +40,7 @@
 - [A Model for Open Domain Long Form Question Answering](https://yjernite.github.io/lfqa.html)
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - InstructGPT论文
+- [DPO - Direct Preference Optimization论文](https://arxiv.org/abs/2305.18290)
 
 ---
 
