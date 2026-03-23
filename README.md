@@ -39,7 +39,7 @@
 - [11/12][Huggingface LLm Course](https://huggingface.co/learn/llm-course)：LLM结构、微调、推理、部署
 - [A Model for Open Domain Long Form Question Answering](https://yjernite.github.io/lfqa.html)
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
-- InstructGPT论文
+- [InstructGPT / RLHF 论文](https://arxiv.org/abs/2203.02155)
 - [DPO - Direct Preference Optimization论文](https://arxiv.org/abs/2305.18290)
 
 ---
@@ -60,6 +60,7 @@
 > 目标：掌握多步骤、多 Agent 系统的构建方法，理解 MCP 协议，能落地前沿 Agent 应用。
 
 - [solveit course by Jeremy Howard](https://solve.it.com/)
+- [ReAct 原始论文](https://arxiv.org/abs/2210.03629)（Yao et al., 2022）
 - LangGraph：复杂Agent构建
     - [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph)
     - [LangGraph Overview](https://docs.langchain.com/oss/python/langgraph/overview)
