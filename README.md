@@ -69,6 +69,10 @@
     - [Project: Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents)
     - [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph)
 
+## 未来储备学习
+
+- [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+
 
 ---
 
