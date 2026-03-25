@@ -67,7 +67,7 @@
 > - 子目标6：基础评估能力（测试集构建、定量对比、LLM-as-judge思路）
 
 **前置阅读**（进入本里程碑前，约30分钟）：
-- [What Are Word Embeddings? - OpenAI Cookbook](https://cookbook.openai.com/articles/what_are_embeddings) — 理解向量化与相似度检索的原理，为 RAG 做概念铺垫
+- [Embeddings - OpenAI Platform](https://platform.openai.com/docs/guides/embeddings) — 理解向量化与相似度检索的原理，为 RAG 做概念铺垫
 
 **学习资源**（按顺序学习）：
 1. [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)（1小时，免费）— 建立 API 调用和 Prompt 基础，对应子目标1、2
