@@ -67,11 +67,11 @@
 > - 子目标6：基础评估能力（测试集构建、定量对比、LLM-as-judge思路）
 
 **前置阅读**（进入本里程碑前，约30分钟）：
-- [Embeddings - OpenAI Platform](https://platform.openai.com/docs/guides/embeddings) — 只读主页面的概念描述（What are embeddings、How to get embeddings、Use cases 的文字部分），理解向量化与相似度检索的原理，为 RAG 做概念铺垫。**不需要**在此阶段跑 Use cases 中的 Jupyter Notebook，相关 notebook（Question answering、Semantic text search）在子目标3 RAG 构建阶段按需参考。
+- [✅][Embeddings - OpenAI Platform](https://platform.openai.com/docs/guides/embeddings) — 只读主页面的概念描述（What are embeddings、How to get embeddings、Use cases 的文字部分），理解向量化与相似度检索的原理，为 RAG 做概念铺垫。**不需要**在此阶段跑 Use cases 中的 Jupyter Notebook，相关 notebook（Question answering、Semantic text search）在子目标3 RAG 构建阶段按需参考。
 
 **学习资源**（按顺序学习）：
-1. [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)（1小时，免费）— 建立 API 调用和 Prompt 基础，对应子目标1、2
-2. [Full Stack LLM Bootcamp - University of California, Berkeley](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) — 视野型课程（2023年内容，部分细节已过时），重点学安全、成本、UX、产品化思路，技术细节以后续课程为准
+1. [✅][ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)（1小时，免费）— 建立 API 调用和 Prompt 基础，对应子目标1、2
+2. [0/16][Full Stack LLM Bootcamp - University of California, Berkeley](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) — 视野型课程（2023年内容，部分细节已过时），重点学安全、成本、UX、产品化思路，技术细节以后续课程为准
 3. [Introduction to LangChain - Python - LangChain Academy](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) — 系统学习 LangChain（LCEL 现代语法），对应子目标3、4、5
 4. [Building and Evaluating Advanced RAG - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)（1小时，免费）— 专项强化 RAG 构建与评估，对应子目标3、6
 5. [Effective Context Engineering for AI Agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)（博客文章，选读）— 生产级 Agent 的上下文设计思路，内容偏进阶，了解趋势即可
