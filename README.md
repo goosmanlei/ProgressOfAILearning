@@ -72,9 +72,15 @@
 **学习资源**（按顺序学习）：
 1. [✅][ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)（1小时，免费）— 建立 API 调用和 Prompt 基础，对应子目标1、2
 2. [✅][Full Stack LLM Bootcamp - Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) — 视野型课程（2023年内容，部分细节已过时），重点学安全、成本、UX、产品化思路，技术细节以后续课程为准
-3. [1/3][Introduction to LangChain - Python - LangChain Academy](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) — 系统学习 LangChain（LCEL 现代语法），对应子目标3、4、5
-4. [Building and Evaluating Advanced RAG - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)（1小时，免费）— 专项强化 RAG 构建与评估，对应子目标3、6
-5. [Effective Context Engineering for AI Agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)（博客文章，选读）— 生产级 Agent 的上下文设计思路，内容偏进阶，了解趋势即可
+3. [✅][Introduction to LangChain - Python - LangChain Academy](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) — 系统学习 LangChain（LCEL 现代语法），对应子目标3、4、5
+4. [Introduction to LangGraph - Python - LangChain Academy](https://academy.langchain.com/courses/intro-to-langgraph)
+5. [Project: Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph) — LangGraph 核心基础项目：构建单 Agent + Tool 的执行图，理解 state 管理、loop / planning，是后续所有 Agent 系统的基础
+
+6. [Project: Deep Research with LangGraph - LangChain Academy](https://academy.langchain.com/courses/deep-research-with-langgraph) — 在 Agent 基础上叠加 RAG + 多步推理能力，重点训练检索、信息整合与复杂任务分解
+
+7. [Project: Ambient Agents with LangGraph - LangChain Academy](https://academy.langchain.com/courses/ambient-agents) — 偏系统设计的高级项目：长生命周期 Agent、事件驱动、持续上下文管理，接近真实生产系统
+8. [Building and Evaluating Advanced RAG - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)（1小时，免费）— 专项强化 RAG 构建与评估，对应子目标3、6
+9. [Effective Context Engineering for AI Agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)（博客文章，选读）— 生产级 Agent 的上下文设计思路，内容偏进阶，了解趋势即可
 
 **学习记录**
 - [llm-engineering](https://github.com/goosmanlei/llm-engineering)
@@ -154,6 +160,8 @@
 ## 未来储备学习
 
 - [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [MCP Protocol](https://modelcontextprotocol.io/specification/latest)
+- [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
 
 
 ---
