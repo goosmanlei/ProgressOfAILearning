@@ -74,13 +74,14 @@
 2. [✅][Full Stack LLM Bootcamp - Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) — 视野型课程（2023年内容，部分细节已过时），重点学安全、成本、UX、产品化思路，技术细节以后续课程为准
 3. [✅][Introduction to LangChain - Python - LangChain Academy](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) — 系统学习 LangChain（LCEL 现代语法），对应子目标3、4、5
 4. [5/6][Introduction to LangGraph - Python - LangChain Academy](https://academy.langchain.com/courses/intro-to-langgraph) - 系统学习LangGraph，理解Graph的设计思想
-5. [Project: Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph) — LangGraph 核心基础项目：构建单 Agent + Tool 的执行图，理解 state 管理、loop / planning，是后续所有 Agent 系统的基础
+5. [Introduction to LangSmith - LangChain Academy](https://academy.langchain.com/courses/intro-to-langsmith) — 学习 LLM 应用的追踪、调试与评估，掌握 LangSmith 的可观测性能力，对应子目标6
+6. [Project: Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph) — LangGraph 核心基础项目：构建单 Agent + Tool 的执行图，理解 state 管理、loop / planning，是后续所有 Agent 系统的基础
 
-6. [Project: Deep Research with LangGraph - LangChain Academy](https://academy.langchain.com/courses/deep-research-with-langgraph) — 在 Agent 基础上叠加 RAG + 多步推理能力，重点训练检索、信息整合与复杂任务分解
+7. [Project: Deep Research with LangGraph - LangChain Academy](https://academy.langchain.com/courses/deep-research-with-langgraph) — 在 Agent 基础上叠加 RAG + 多步推理能力，重点训练检索、信息整合与复杂任务分解
 
-7. [Project: Ambient Agents with LangGraph - LangChain Academy](https://academy.langchain.com/courses/ambient-agents) — 偏系统设计的高级项目：长生命周期 Agent、事件驱动、持续上下文管理，接近真实生产系统
-8. [Building and Evaluating Advanced RAG - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)（1小时，免费）— 专项强化 RAG 构建与评估，对应子目标3、6
-9. [Effective Context Engineering for AI Agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)（博客文章，选读）— 生产级 Agent 的上下文设计思路，内容偏进阶，了解趋势即可
+8. [Project: Ambient Agents with LangGraph - LangChain Academy](https://academy.langchain.com/courses/ambient-agents) — 偏系统设计的高级项目：长生命周期 Agent、事件驱动、持续上下文管理，接近真实生产系统
+9. [Building and Evaluating Advanced RAG - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)（1小时，免费）— 专项强化 RAG 构建与评估，对应子目标3、6
+10. [Effective Context Engineering for AI Agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)（博客文章，选读）— 生产级 Agent 的上下文设计思路，内容偏进阶，了解趋势即可
 
 **学习记录**
 - [llm-engineering](https://github.com/goosmanlei/llm-engineering)
