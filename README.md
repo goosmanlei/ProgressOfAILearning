@@ -74,7 +74,7 @@
 2. [✅][Full Stack LLM Bootcamp - Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) — 视野型课程（2023年内容，部分细节已过时），重点学安全、成本、UX、产品化思路，技术细节以后续课程为准
 3. [✅][Introduction to LangChain - Python - LangChain Academy](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) — 系统学习 LangChain（LCEL 现代语法），对应子目标3、4、5
 4. [✅][Introduction to LangGraph - Python - LangChain Academy](https://academy.langchain.com/courses/intro-to-langgraph) - 系统学习LangGraph，理解Graph的设计思想
-5. [0/5][Introduction to LangSmith - LangChain Academy](https://academy.langchain.com/courses/intro-to-langsmith) — 学习 LLM 应用的追踪、调试与评估，掌握 LangSmith 的可观测性能力，对应子目标6
+5. [1/5][Introduction to LangSmith - LangChain Academy](https://academy.langchain.com/courses/intro-to-langsmith) — 学习 LLM 应用的追踪、调试与评估，掌握 LangSmith 的可观测性能力，对应子目标6
 6. [Project: Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph) — LangGraph 核心基础项目：构建单 Agent + Tool 的执行图，理解 state 管理、loop / planning，是后续所有 Agent 系统的基础
 
 7. [Project: Deep Research with LangGraph - LangChain Academy](https://academy.langchain.com/courses/deep-research-with-langgraph) — 在 Agent 基础上叠加 RAG + 多步推理能力，重点训练检索、信息整合与复杂任务分解
